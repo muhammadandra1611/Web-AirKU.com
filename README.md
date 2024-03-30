@@ -17,7 +17,7 @@ Airku adalah sebuah proyek web yang bertujuan untuk melakukan pembayaran tagihan
 Kami sangat terbuka terhadap kontribusi dari komunitas. Jika Anda ingin berkontribusi pada pengembangan Airku, silakan buka [Panduan Kontribusi](CONTRIBUTING.md) kami untuk informasi lebih lanjut.
 
 ## Lisensi
-Proyek Airku dilisensikan di bawah [MIT License](LICENSE) By Muhammad Sakti Noviandra
+Proyek Airku dilisensikan di bawah [MIT License](MIT_LICENSE.txt) By Muhammad Sakti Noviandra
 
 ## NOTE
 Webnya Masih Dikembangkan,belum bisa diakses melalui web,dan masih banyak perbaikan untuk beberapa bug didalamnya
