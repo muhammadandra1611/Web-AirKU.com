@@ -18,3 +18,6 @@ Kami sangat terbuka terhadap kontribusi dari komunitas. Jika Anda ingin berkontr
 
 ## Lisensi
 Proyek Airku dilisensikan di bawah [MIT License](LICENSE) By Muhammad Sakti Noviandra
+
+## NOTE
+Webnya Masih Dikembangkan,belum bisa diakses melalui web,dan masih banyak perbaikan untuk beberapa bug didalamnya
