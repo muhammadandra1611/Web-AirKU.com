@@ -1,0 +1,21 @@
+Lisensi MIT
+
+Hak Cipta (c) 2024 Muhammad Sakti Noviandra
+
+Izin dengan ini diberikan, secara gratis, kepada setiap orang yang memperoleh salinan
+perangkat lunak ini dan file-file dokumentasi terkait (berikutnya disebut "Perangkat Lunak"),
+untuk berurusan dalam Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak-hak
+untuk menggunakan, menyalin, memodifikasi, menggabungkan, memublikasikan, mendistribusikan,
+membublisikannya kembali, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, serta
+untuk mengizinkan orang-orang kepada siapa Perangkat Lunak disediakan untuk melakukannya,
+dengan ketentuan sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
+salinan atau bagian substansial dari Perangkat Lunak.
+
+PERANGKAT LUNAK DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSIRAT
+MAUPUN TIDAK, TERMASUK TAPI TIDAK TERBATAS PADA JAMINAN PERIHAL KOMERSIALITAS, KESESUAIAN
+UNTUK TUJUAN TERTENTU DAN KETIDAKPELANGGARAN. DI BAWAH TIDAK ADA KEADAAN PENULIS ATAU
+PEMILIK HAK CIPTA YANG BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU TANGGUNG JAWAB LAIN,
+BAIK DALAM TINDAKAN KONTRAK, TORT ATAU LAINNYA, TIMBUL DARI, DARI ATAU DALAM KAITANNYA DENGAN
+PERANGKAT LUNAK ATAU PENGGUNAAN ATAU KONTRIBUSI LAINNYA DALAM PERANGKAT LUNAK.
