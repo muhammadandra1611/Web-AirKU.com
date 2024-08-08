@@ -8,7 +8,7 @@ Airku adalah sebuah proyek web yang bertujuan untuk melakukan pembayaran tagihan
 - **Notifikasi:** Dapatkan pemberitahuan ketika terdeteksi adanya perubahan signifikan dalam kualitas air.
 
 ## Cara Menggunakan
-1. **Buka Situs Web Airku:** Kunjungi [https://www.airku.com](https://www.airku.com).
+1. **Buka Situs Web Airku:** Kunjungi [https://www.airku.com]([[https://www.airku.com](https://rumahkoders.com/kel1.rumahkoders.com/)](https://rumahkoders.com/kel1.rumahkoders.com/)).
 2. **Daftar atau Masuk:** Buat akun baru atau masuk dengan akun Anda.
 3. **Pilih Lokasi:** Pilih lokasi yang ingin Anda pantau kualitas airnya.
 4. **Lihat Data:** Pantau pembaruan langsung dan analisis data kualitas air.
